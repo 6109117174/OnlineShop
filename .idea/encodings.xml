@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/controller/admin/AccountController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/AccountDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/CommentDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/OrderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/PostDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/ProductCategoryDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/dao/common/ProductDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ischoolbar/programmer/entity/common/Product.java" charset="GBK" />
+  </component>
+</project>
