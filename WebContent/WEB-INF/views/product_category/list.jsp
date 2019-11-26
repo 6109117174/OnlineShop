@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@include file="../common/header.jsp"%>
 <div class="easyui-layout" data-options="fit:true">
-    <!-- Begin of toolbar -->
+    <!-- Begin of toolbar  -->
     <div id="wu-toolbar">
         <div class="wu-toolbar-button">
             <%@include file="../common/menus.jsp"%>
