@@ -17,7 +17,8 @@ public interface ProductService {
 	
 	/**
 	 * ÃÌº”…Ã∆∑
-	 * @param productCategory
+	 * productCategory
+	 * @param
 	 * @return
 	 */
 	public int add(Product product);
