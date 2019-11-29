@@ -41,6 +41,7 @@
      	</thead>
      </table>
 </div>
+
 <!-- 修改窗口 -->
 <div id="edit-dialog" class="easyui-dialog" data-options="closed:true,iconCls:'icon-save'" style="width:450px; padding:10px;">
 	<form id="edit-form" method="post">
