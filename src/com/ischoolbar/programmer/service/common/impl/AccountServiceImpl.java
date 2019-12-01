@@ -1,7 +1,6 @@
 package com.ischoolbar.programmer.service.common.impl;
 /**
  * 商品接口实现
- *
  */
 import java.util.List;
 import java.util.Map;
