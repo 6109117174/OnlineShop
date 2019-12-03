@@ -24,7 +24,8 @@ public interface ProductDao {
 	
 	/**
 	 * ±‡º≠…Ã∆∑
-	 * @param productCategory
+     * productCategory
+	 * @param
 	 * @return
 	 */
 	public int edit(Product product);

@@ -76,8 +76,7 @@ public class ProductCategoryController {
 	
 	/**
 	 * 添加商品分类
-	 * productCategory
-	 * @param
+	 * @param productCategory
 	 * @return
 	 */
 	@RequestMapping(value="/add",method=RequestMethod.POST)
