@@ -10,7 +10,6 @@ import com.ischoolbar.programmer.entity.common.ProductCategory;
 /**
  * 商品分类dao层
  * @author Administrator
- *
  */
 @Repository
 public interface ProductCategoryDao {

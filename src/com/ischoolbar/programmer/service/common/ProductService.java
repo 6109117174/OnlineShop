@@ -39,7 +39,8 @@ public interface ProductService {
 	
 	/**
 	 * 多条件搜索词查询商品
-	 * @param queMap
+	 * queMap
+	 * @param
 	 * @return
 	 */
 	public List<Product> findList(Map<String, Object> queryMap);

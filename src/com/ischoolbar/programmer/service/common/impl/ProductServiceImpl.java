@@ -1,6 +1,6 @@
 package com.ischoolbar.programmer.service.common.impl;
 /**
- * 商品管理接口的实现类
+ * 商品管理接口实现类
  */
 import java.util.List;
 import java.util.Map;
