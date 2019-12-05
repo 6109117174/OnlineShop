@@ -21,6 +21,7 @@ import com.ischoolbar.programmer.service.common.ProductCategoryService;
 /**
  * 商品分类管理控制器
  * @author Administrator
+ *
  */
 @RequestMapping("/admin/product_category")
 @Controller

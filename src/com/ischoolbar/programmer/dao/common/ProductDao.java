@@ -47,7 +47,8 @@ public interface ProductDao {
 	
 	/**
 	 * 根据username查询商品
-	 * @param queMap
+     * queMap
+	 * @param
 	 * @return
 	 */ 
 	public List<Product> findListByShopname(Map<String, Object> queryMap);

@@ -31,6 +31,7 @@
 	
 	/**
 	* 删除记录
+     *
 	*/
 	function remove(){
 		$.messager.confirm('信息提示','确定要删除该记录？', function(result){

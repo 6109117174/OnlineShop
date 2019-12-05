@@ -46,7 +46,8 @@ public interface ProductService {
 	public List<Product> findList(Map<String, Object> queryMap);
 	
 	/** 根据username查询商品
-	 * @param queMap
+	 * queMap
+	 * @param
 	 * @return
 	 */ 
 	public List<Product> findListByShopname(Map<String, Object> queryMap);
