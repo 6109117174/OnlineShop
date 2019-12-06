@@ -10,7 +10,6 @@ import com.ischoolbar.programmer.entity.common.Account;
 /**
  * 客户dao层
  * @author Administrator
- *
  */
 @Repository
 public interface AccountDao {
@@ -37,7 +36,8 @@ public interface AccountDao {
 	
 	/**
 	 * 多条件搜索词查询客户
-	 * @param queMap
+	 * queMap
+	 * @param
 	 * @return
 	 */
 	public List<Account> findList(Map<String, Object> queryMap);
