@@ -24,7 +24,7 @@ import com.ischoolbar.programmer.service.admin.RoleService;
 
 /**
  * ½ÇÉ«role¿ØÖÆÆ÷
- * @author llq
+ * @author
  */
 @RequestMapping("/admin/role")
 @Controller
