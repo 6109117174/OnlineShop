@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 /**
  * 客户实体
  * @author Administrator
- *
  */
 @Component
 public class Account {

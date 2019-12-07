@@ -10,6 +10,7 @@ import com.ischoolbar.programmer.entity.common.Account;
 /**
  * 客户接口
  * @author Administrator
+ *
  */
 @Service
 public interface AccountService {

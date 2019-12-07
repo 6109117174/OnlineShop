@@ -114,12 +114,9 @@
     </form>
 </div>
 <%@include file="../common/footer.jsp"%>
-
 <!-- End of easyui-dialog -->
 <script type="text/javascript">
-	
-	
-	
+
 	/**
 	*  添加记录
 	*/
