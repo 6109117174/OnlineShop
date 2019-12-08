@@ -10,6 +10,7 @@ import com.ischoolbar.programmer.entity.common.Account;
 /**
  * ¿Í»§dao²ã
  * @author Administrator
+ *
  */
 @Repository
 public interface AccountDao {
