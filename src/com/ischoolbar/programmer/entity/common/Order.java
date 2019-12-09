@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * ¶©µ¥ΚµΜε
  * @author Administrator
- *
  */
 @Component
 public class Order {
