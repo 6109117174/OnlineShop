@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * 商品实体
  * @author Administrator
+ *
  */
 @Component
 public class Product {

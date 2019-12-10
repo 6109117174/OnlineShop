@@ -10,7 +10,6 @@ import com.ischoolbar.programmer.entity.common.Product;
 /**
  * …Ã∆∑dao≤„
  * @author Administrator
- *
  */
 @Repository
 public interface ProductDao {

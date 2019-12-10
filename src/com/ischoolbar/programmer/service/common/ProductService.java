@@ -10,6 +10,7 @@ import com.ischoolbar.programmer.entity.common.Product;
 /**
  * 商品接口
  * @author Administrator
+ *
  */
 @Service
 public interface ProductService {
