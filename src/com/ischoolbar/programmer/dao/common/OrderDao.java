@@ -12,6 +12,7 @@ import com.ischoolbar.programmer.entity.common.Product;
 /**
  * ¶©µ¥dao²ã
  * @author Administrator
+ *
  */
 @Repository
 public interface OrderDao {
