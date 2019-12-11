@@ -71,7 +71,6 @@
 var ue = UE.getEditor('edit-content');
 
 //上传图片功能
-
 function start(){
 		var value = $('#p').progressbar('getValue');
 		if (value < 100){

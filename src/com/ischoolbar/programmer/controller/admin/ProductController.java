@@ -28,7 +28,6 @@ import com.ischoolbar.programmer.service.common.ProductService;
 /**
  * 商品管理控制器
  * @author Administrator
- *
  */
 @RequestMapping("/admin/product")
 @Controller

@@ -20,7 +20,6 @@ import com.ischoolbar.programmer.service.common.AccountService;
 /**
  * 客户管理控制器
  * @author Administrator
- *
  */
 @RequestMapping("/admin/account")
 @Controller
