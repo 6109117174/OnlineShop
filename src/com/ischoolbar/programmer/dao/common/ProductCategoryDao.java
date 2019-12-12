@@ -16,6 +16,7 @@ import com.ischoolbar.programmer.entity.common.ProductCategory;
 public interface ProductCategoryDao {
 	/**
 	 * 添加商品分类
+	 *
 	 * productCategory
 	 * @param
 	 * @return

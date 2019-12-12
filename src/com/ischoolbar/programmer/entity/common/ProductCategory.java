@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 商品分类实体
+ *
  * @author Administrator
  *
  */

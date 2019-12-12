@@ -33,6 +33,7 @@ public class ProductCategoryController {
 	
 	/**
 	 * 商品分类列表页
+	 *
 	 * @param model
 	 * @return
 	 */

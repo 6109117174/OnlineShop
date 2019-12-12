@@ -19,7 +19,6 @@
             </select>
             <label>订单金额:</label>
 			<input id="search-moneyMin" class="wu-text" style="width:50px">
-			~
 			<input id="search-moneyMax" class="wu-text" style="width:50px">
             <a href="#" id="search-btn" class="easyui-linkbutton" iconCls="icon-search">搜索</a>
         </div>

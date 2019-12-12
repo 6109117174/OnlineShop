@@ -42,6 +42,7 @@ public class ProductController {
 	
 	/**
 	 * 商品列表页
+	 *
 	 * @param model
 	 * @return
 	 */

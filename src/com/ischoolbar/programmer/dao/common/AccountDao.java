@@ -16,6 +16,7 @@ import com.ischoolbar.programmer.entity.common.Account;
 public interface AccountDao {
 	/**
 	 * Ìí¼Ó¿Í»§
+	 *
 	 * @param account
 	 * @return
 	 */
