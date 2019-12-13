@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ischoolbar.programmer.dao.common.ShopDao">
+	<!-- 商铺信息插入操作 -->
+	<insert id="add" parameterType="com.ischoolbar.programmer.entity.common.Shop">
+		insert into shop(shopname,password,email,applytime,roleId,address,ifable) values(#{shopname},#{password},#{email},#{applytime},#{roleId},#{address},#{ifable})
+	</insert>
+	
+	<!-- 根据商铺名查询 -->
+	<select id="findByName" parameterType="String" resultType="com.ischoolbar.programmer.entity.common.Shop">
+		select * from shop where shopname = #{value}
+	</select>
+	
+	<insert id="insertShop" parameterType="com.ischoolbar.programmer.entity.common.Shop">
+		insert into user(username,password,roleId,address,ifable) values(#{shopname},#{password},#{roleId},#{address},#{ifable})
+	</insert>
+</mapper> 
