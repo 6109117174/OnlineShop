@@ -6,7 +6,6 @@ import java.util.Map;
 import org.springframework.stereotype.Service;
 
 import com.ischoolbar.programmer.entity.common.Product;
-
 /**
  * 商品接口
  *

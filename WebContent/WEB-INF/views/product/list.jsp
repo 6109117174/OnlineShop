@@ -27,8 +27,6 @@
 
 <!-- End of easyui-dialog -->
 <script type="text/javascript">
-	
-	
 	/**
 	* 删除记录
 	*/

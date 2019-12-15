@@ -10,7 +10,6 @@
         </div>
         <div class="wu-toolbar-search">
             <label>分类名称:</label><input id="search-name" class="wu-text" style="width:100px">
-            
             <a href="#" id="search-btn" class="easyui-linkbutton" iconCls="icon-search">搜索</a>
         </div>
     </div>

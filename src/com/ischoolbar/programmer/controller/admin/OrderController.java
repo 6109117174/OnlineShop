@@ -31,10 +31,8 @@ import com.ischoolbar.programmer.service.common.OrderService;
 @Controller
 public class OrderController {
 	
-	
 	@Autowired
 	private OrderService orderService;
-	
 	@Autowired
 	private AccountService accountService;
 	

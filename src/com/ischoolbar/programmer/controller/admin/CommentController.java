@@ -26,8 +26,7 @@ import com.ischoolbar.programmer.service.common.CommentService;
 @RequestMapping("/admin/comment")
 @Controller
 public class CommentController {
-	
-	
+
 	@Autowired
 	private CommentService commentService;
 	

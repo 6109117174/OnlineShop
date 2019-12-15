@@ -32,8 +32,7 @@ public class MenuController {
 	
 	@Autowired
 	private MenuService menuService;
-	
-	
+
 	/**
 	 * 菜单管理列表页
 	 * @param model

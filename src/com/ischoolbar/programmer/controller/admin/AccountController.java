@@ -28,8 +28,7 @@ public class AccountController {
 	
 	@Autowired
 	private AccountService accountService;
-	
-	
+
 	/**
 	 * 客户列表页
 	 * @param model

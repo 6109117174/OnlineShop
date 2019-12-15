@@ -27,7 +27,6 @@ import com.ischoolbar.programmer.service.admin.LogService;
 public class LogController {
 	@Autowired
 	private LogService logService;
-	
 	/**
 	 * 日志列表页面
 	 * @param model
