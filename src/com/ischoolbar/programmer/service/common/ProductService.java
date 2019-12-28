@@ -25,7 +25,8 @@ public interface ProductService {
 	
 	/**
 	 * ±‡º≠…Ã∆∑
-	 * @param productCategory
+	 * productCategory
+	 * @param
 	 * @return
 	 */
 	public int edit(Product product);
